@@ -1,0 +1,195 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color:#cb322c;
+}
+
+
+#container1{
+	width: 300px;
+	margin-top: none;
+	margin-left: none;
+	margin-right:none;
+	float: left;
+}
+
+.container1 img {
+  width: 10%;
+  height: auto;
+}
+
+.containerNav{
+	float:left;
+	
+}
+
+
+.containerLogo{
+	float:right;
+}
+
+
+container2{
+	background-color: #cb322c;
+	width: 1000px;
+	margin-top: none;
+	margin-left: none;
+	margin-right:none;
+	float: left;
+	}
+
+#header{
+	background-color: #cb322c;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	font-family: montserrat;
+
+}
+
+
+img{
+	float:left;
+}
+
+#middle {
+	background-color: #cb322c;
+	color: white;
+	text-align: center;
+	font-family: montserrat;
+}
+
+
+#middle .Shop_Container {
+	
+	float:left;
+	margin-left: 225px;
+	margin-top: 100px;
+}
+	
+	
+	
+#map {
+	float: left;
+	margin-top: 275px;
+	margin-right: 50px;
+}
+
+#middle .containerMid{
+	border:none;
+	
+}
+
+
+#logo {
+	float:left;
+	margin-top: 275px;
+	margin-right: 50px;
+	border: none;
+}
+
+#google_map {
+	float:left;
+	margin-top: 238px;
+	margin-right: 50px;
+
+}
+
+h1{
+	text-align: center;
+}
+
+.containerMid{
+	float:left;
+	margin-left: 150px;
+	margin-top: 50px;
+}
+
+#middle .containerMid{
+ float: left;
+ 
+}
+
+.containerMid2 {
+  width: 18.25%;
+  float: left;
+  border: 3px solid black;
+  margin-left:300px;
+  margin-top: 50px;
+}
+
+.text {
+	
+  width: 45%;
+  float: left;
+  margin-left: 600px;
+  margin-top: -275px;
+  text-align: justify;
+}
+
+
+img .Bond_Toys{
+	float:left;
+}
+
+img .Bond_Girls{
+	float:right;
+}
+
+img .Bond_Poster{
+	float:left;
+}
+
+img .Bond_Film{
+	float:left;
+}
+
+img .Bond_Music{
+	float:right;
+}
+
+.container{
+	align-content: center;
+}
+
+
+#footer{
+	clear:both;
+	padding: 15px;
+	background-color:#040507;
+	color: white;
+	text-align: center;
+}
+#footer .btn6{
+  position: absolute;
+  top:100%;
+  left:15%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: #D4C98C;
+  color: black;
+  font-size: 16px;
+  padding: 150px, 150px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  float: right;
+  margin-top: 100px;
+}
+
+
+#footer .btn6:hover {
+  background-color: black;
+  color: white;
+}
+
+#Icons{
+	float: right;
+	margin-top: -75px;
+	margin-right: 50px;
+
+}
+
+
